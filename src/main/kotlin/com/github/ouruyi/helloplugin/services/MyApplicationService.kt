@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ouruyi.helloplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ouruyi.helloplugin.MyBundle
 
 class MyApplicationService {
 
